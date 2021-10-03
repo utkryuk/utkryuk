@@ -16,7 +16,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/utkryuk).
 - 📫 &nbsp; How to reach me: utkryuk@gmail.com.
-- 📝 &nbsp; Checkout my [**Resume**](https://github.com/utkryuk/utkryuk/blob/master/assets/resume.pdf).
+- 📝 &nbsp; Checkout my [**Resume**](https://github.com/utkryuk/utkryuk/blob/main/assets/Utkarsh_Gupta_Resume.pdf).
 
 ### My Absolute Favorites:
 
