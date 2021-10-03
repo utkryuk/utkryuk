@@ -6,6 +6,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/utkryuk)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_this_is_utkarsh/)
 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=utkryuk.utkryuk&style=flat-square&color=0088cc)
+
 I'm a self-taught passionate software developer from India 🇮🇳.
 I graduated in Information Technology 🎓 from BIT Mesra 🏛.
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Full Stack Web Development 🕸️.
