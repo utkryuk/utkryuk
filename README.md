@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/utkryuk)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_this_is_utkarsh/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=utkryuk.utkryuk&style=flat-square&color=0088cc)
+### Glad to see you here! <a href="https://hits.seeyoufarm.com"><img height="17" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Futkryuk%2Futkryuk&count_bg=%23197EB9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 
 I'm a self-taught passionate software developer from India 🇮🇳.
 I graduated in Information Technology 🎓 from BIT Mesra 🏛.
