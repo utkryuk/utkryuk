@@ -24,7 +24,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-- 📚 &nbsp; I love reading books. Currently, I am reading **Sapiens** and **Da Vinci code**.
+- 📚 &nbsp; I love reading books. Currently, I am reading **The Three-Body Problem**.
 
 ## Languages and Tools:
 
@@ -70,7 +70,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 	    <li><b>Laptop: </b> HP Notebook - 15g-br011tx (i5)</li>
   	    <li><b>Browser: </b> Google Chrome Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh</li>
-	    <li><b>Code Editors:</b> VSCode (p.s. The best Editor), Intellij</li>
+	    <li><b>Code Editors:</b> VSCode (p.s. The best Editor), Sublime, Intellij</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin</li>
 	</ul>	
 </details>
